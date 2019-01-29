@@ -11,7 +11,7 @@ Also this site is a good example for students working on front end.
 This was also one of our First year Web developement project
 
 ----
-visit : - https://armish24.github.io/web_front_end_KADAM/
+visit : - https://armish24.github.io/KADAM-Rajasthan-hackathon-2018-project/
 --
 ### made with :heart: by 
  * front end part : [Arpit](https://github.com/shubahmsingh) , [Shubham](https://github.com/shubham7298) 
